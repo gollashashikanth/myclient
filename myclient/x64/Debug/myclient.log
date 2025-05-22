@@ -1,0 +1,546 @@
+﻿  json.cpp
+  mainrest.cpp
+  myclient.cpp
+C:\Users\GollaShashikanth\source\repos\myclient\json.cpp(1,10): error C1083: Cannot open include file: 'jsonParserCreater.h': No such file or directory
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(380,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(380,19): error C2146: syntax error: missing ';' before identifier 'HCRYPTPROV'
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(380,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(900,17): error C3646: 'dwVersion': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(900,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(902,13): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(902,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(902,19): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(903,13): error C3646: 'cbOID': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(903,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(909,13): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(909,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(909,27): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(910,13): error C3646: 'cbInnerString': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(910,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(911,13): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(911,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(911,27): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(912,13): error C3646: 'cbOuterString': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(912,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(917,13): error C3646: 'dwUse': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(917,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(919,13): error C3646: 'cBits': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(919,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(920,13): error C3646: 'dwFlags': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(920,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(921,13): error C3646: 'dwReserved': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(921,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(933,15): error C3646: 'dwBitLen': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(933,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(934,15): error C3646: 'dwNameLen': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(934,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(935,15): error C3646: 'szName': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(935,21): error C2143: syntax error: missing ',' before '['
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(935,25): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(941,15): error C3646: 'dwDefaultLen': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(941,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(942,15): error C3646: 'dwMinLen': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(942,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(943,15): error C3646: 'dwMaxLen': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(943,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(944,15): error C3646: 'dwProtocols': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(944,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(945,15): error C3646: 'dwNameLen': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(945,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(946,15): error C3646: 'szName': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(946,21): error C2143: syntax error: missing ',' before '['
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(946,25): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(947,15): error C3646: 'dwLongNameLen': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(947,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(948,15): error C3646: 'szLongName': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(948,25): error C2143: syntax error: missing ',' before '['
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(948,29): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(953,17): error C3646: 'bType': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(953,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(954,17): error C3646: 'bVersion': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(954,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(955,17): error C3646: 'reserved': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(955,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(960,17): error C3646: 'magic': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(960,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(961,17): error C3646: 'bitlen': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(961,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(962,17): error C3646: 'pubexp': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(962,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(967,17): error C3646: 'magic': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(967,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(968,17): error C3646: 'bitlen': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(968,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(972,17): error C3646: 'counter': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(972,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(973,17): error C3646: 'seed': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(973,21): error C2143: syntax error: missing ',' before '['
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(973,25): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(977,17): error C3646: 'magic': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(977,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(978,17): error C3646: 'bitlenP': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(978,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(979,17): error C3646: 'bitlenQ': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(979,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(980,17): error C3646: 'bitlenJ': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(980,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(985,17): error C3646: 'magic': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(985,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(986,17): error C3646: 'bitlenP': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(986,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(987,17): error C3646: 'bitlenQ': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(987,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(988,17): error C3646: 'bitlenJ': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(988,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(989,17): error C3646: 'bitlenX': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(989,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(994,17): error C3646: 'dwKeySpec': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(994,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(995,17): error C3646: 'Type': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(995,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(996,17): error C3646: 'Subtype': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(996,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1051,37): error C3646: 'cbData': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1051,29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1052,41): error C2143: syntax error: missing ';' before '*'
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1052,33): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1052,48): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1071,25): error C3646: 'dwVersion': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1071,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1073,21): error C3646: 'pszContentEncObjId': unknown override specifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1073,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1086,1): error C2143: syntax error: missing ';' before '__cdecl'
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1085,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1087,1): warning C4229: anachronism used: modifiers on data are ignored
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1087,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1088,30): error C2065: 'phProv': undeclared identifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1089,17): error C2065: 'LPCSTR': undeclared identifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1089,27): error C2146: syntax error: missing ')' before identifier 'szContainer'
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1096,1): error C2143: syntax error: missing ';' before '__cdecl'
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1095,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1095,1): error C2086: 'int BOOL': redefinition
+  (compiling source file 'mainrest.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1085,1):
+      see declaration of 'BOOL'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1097,1): warning C4229: anachronism used: modifiers on data are ignored
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1097,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1098,30): error C2065: 'phProv': undeclared identifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1099,17): error C2065: 'LPCWSTR': undeclared identifier
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1099,28): error C2146: syntax error: missing ')' before identifier 'szContainer'
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1118,1): error C2143: syntax error: missing ';' before '__cdecl'
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1117,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1117,1): error C2086: 'int BOOL': redefinition
+  (compiling source file 'mainrest.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1085,1):
+      see declaration of 'BOOL'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1119,1): warning C4229: anachronism used: modifiers on data are ignored
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1119,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1120,25): error C2146: syntax error: missing ')' before identifier 'hProv'
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1132,1): error C2143: syntax error: missing ';' before '__cdecl'
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1131,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1131,1): error C2086: 'int BOOL': redefinition
+  (compiling source file 'mainrest.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1085,1):
+      see declaration of 'BOOL'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1133,1): warning C4229: anachronism used: modifiers on data are ignored
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1133,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1134,25): error C2146: syntax error: missing ')' before identifier 'hProv'
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1142,1): error C2143: syntax error: missing ';' before '__cdecl'
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1141,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1141,1): error C2086: 'int BOOL': redefinition
+  (compiling source file 'mainrest.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1085,1):
+      see declaration of 'BOOL'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1143,1): warning C4229: anachronism used: modifiers on data are ignored
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1143,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1144,25): error C2146: syntax error: missing ')' before identifier 'hProv'
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1153,1): error C2143: syntax error: missing ';' before '__cdecl'
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1152,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1152,1): error C2086: 'int BOOL': redefinition
+  (compiling source file 'mainrest.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1085,1):
+      see declaration of 'BOOL'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1154,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1160,1): error C2143: syntax error: missing ';' before '__cdecl'
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1159,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1159,1): error C2086: 'int BOOL': redefinition
+  (compiling source file 'mainrest.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1085,1):
+      see declaration of 'BOOL'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1163,13): error C2061: syntax error: identifier 'DWORD'
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1161,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1170,1): error C2143: syntax error: missing ';' before '__cdecl'
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1169,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1169,1): error C2086: 'int BOOL': redefinition
+  (compiling source file 'mainrest.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1085,1):
+      see declaration of 'BOOL'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1173,53): error C2061: syntax error: identifier 'DWORD'
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1171,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1181,1): error C2143: syntax error: missing ';' before '__cdecl'
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1180,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1180,1): error C2086: 'int BOOL': redefinition
+  (compiling source file 'mainrest.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1085,1):
+      see declaration of 'BOOL'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1184,13): error C2061: syntax error: identifier 'DWORD'
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1182,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1191,1): error C2143: syntax error: missing ';' before '__cdecl'
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1190,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainrest.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1190,1): error C2086: 'int BOOL': redefinition
+  (compiling source file 'mainrest.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1085,1):
+      see declaration of 'BOOL'
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wincrypt.h(1190,1): error C1003: error count exceeds 100; stopping compilation
+  (compiling source file 'mainrest.cpp')
+  
+C:\Users\GollaShashikanth\source\repos\myclient\myclient.cpp(3,10): error C1083: Cannot open include file: 'restService.h': No such file or directory
+  rest.cpp
+C:\Users\GollaShashikanth\source\repos\myclient\rest.cpp(62,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\GollaShashikanth\source\repos\myclient\rest.cpp(62,19): error C2146: syntax error: missing ';' before identifier 'iDeviceRestService'
+C:\Users\GollaShashikanth\source\repos\myclient\rest.cpp(64,16): error C2027: use of undefined type 'std::basic_ifstream<char,std::char_traits<char>>'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\iosfwd(205,7):
+      see declaration of 'std::basic_ifstream<char,std::char_traits<char>>'
+  
+C:\Users\GollaShashikanth\source\repos\myclient\rest.cpp(64,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\GollaShashikanth\source\repos\myclient\rest.cpp(64,25): error C2146: syntax error: missing ';' before identifier 'filesize'
+C:\Users\GollaShashikanth\source\repos\myclient\rest.cpp(65,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\GollaShashikanth\source\repos\myclient\rest.cpp(65,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\GollaShashikanth\source\repos\myclient\rest.cpp(116,2): error C2653: 'logging': is not a class or namespace name
+C:\Users\GollaShashikanth\source\repos\myclient\rest.cpp(116,11): error C3861: 'INFO': identifier not found
+C:\Users\GollaShashikanth\source\repos\myclient\rest.cpp(117,2): error C2065: 'iDeviceRestService': undeclared identifier
+C:\Users\GollaShashikanth\source\repos\myclient\rest.cpp(118,2): error C2653: 'logging': is not a class or namespace name
+C:\Users\GollaShashikanth\source\repos\myclient\rest.cpp(118,11): error C3861: 'INFO': identifier not found
+C:\Users\GollaShashikanth\source\repos\myclient\rest.cpp(123,2): error C2653: 'logging': is not a class or namespace name
+C:\Users\GollaShashikanth\source\repos\myclient\rest.cpp(123,11): error C3861: 'INFO': identifier not found
+C:\Users\GollaShashikanth\source\repos\myclient\rest.cpp(124,2): error C2065: 'iDeviceRestService': undeclared identifier
+C:\Users\GollaShashikanth\source\repos\myclient\rest.cpp(125,2): error C2653: 'logging': is not a class or namespace name
+C:\Users\GollaShashikanth\source\repos\myclient\rest.cpp(125,11): error C3861: 'INFO': identifier not found
+C:\Users\GollaShashikanth\source\repos\myclient\rest.cpp(152,2): error C2653: 'logging': is not a class or namespace name
+C:\Users\GollaShashikanth\source\repos\myclient\rest.cpp(152,11): error C3861: 'INFO': identifier not found
+C:\Users\GollaShashikanth\source\repos\myclient\rest.cpp(153,2): error C2653: 'logging': is not a class or namespace name
+C:\Users\GollaShashikanth\source\repos\myclient\rest.cpp(153,11): error C3861: 'INFO': identifier not found
+C:\Users\GollaShashikanth\source\repos\myclient\rest.cpp(162,2): error C2653: 'logging': is not a class or namespace name
+C:\Users\GollaShashikanth\source\repos\myclient\rest.cpp(162,11): error C3861: 'INFO': identifier not found
+C:\Users\GollaShashikanth\source\repos\myclient\rest.cpp(163,2): error C2653: 'logging': is not a class or namespace name
+C:\Users\GollaShashikanth\source\repos\myclient\rest.cpp(163,11): error C3861: 'INFO': identifier not found
+C:\Users\GollaShashikanth\source\repos\myclient\rest.cpp(164,2): error C2065: 'iDeviceRestService': undeclared identifier
+C:\Users\GollaShashikanth\source\repos\myclient\rest.cpp(165,2): error C2653: 'logging': is not a class or namespace name
+C:\Users\GollaShashikanth\source\repos\myclient\rest.cpp(165,11): error C3861: 'INFO': identifier not found
+C:\Users\GollaShashikanth\source\repos\myclient\rest.cpp(132,17): error C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
